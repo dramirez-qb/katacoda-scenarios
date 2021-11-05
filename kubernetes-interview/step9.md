@@ -1,4 +1,4 @@
-Investigate the issue with NGINX. How would you do that?
+Investigate the and fix the issue with NGINX. How would you do that?
 
 ### Question
 

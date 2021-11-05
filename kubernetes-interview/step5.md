@@ -1,4 +1,4 @@
-Show everything that was installed by `kubectl`.
+Show everything that was installed by `kubectl` and save it to a file called `web-status`
 
 ### Question
 

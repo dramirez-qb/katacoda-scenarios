@@ -21,19 +21,19 @@
       {
         "title": "Installed Resources",
         "text": "step5.md",
-        "verify": "step1_verify.sh",
+        "verify": "step5_verify.sh",
         "hint": "step5_hint.sh"
       },
       {
         "title": "Status of the Pods",
         "text": "step7.md",
-        "verify": "step1_verify.sh",
+        "verify": "step7_verify.sh",
         "hint": "step5_hint.sh"
       },
       {
         "title": "Investigate NGINX",
         "text": "step9.md",
-        "verify": "step1_verify.sh",
+        "verify": "step9_verify.sh",
         "hint": "step5_hint.sh"
       }
     ],

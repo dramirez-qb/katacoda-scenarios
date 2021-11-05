@@ -9,5 +9,5 @@ fi
 
 if [ $seconds_sofar -ge 20 ]; then
   echo "Hint: try running the command:"
-  echo "kubectl get ???"
+  echo "kubectl get ??? > file"
 fi

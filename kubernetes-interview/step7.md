@@ -1,4 +1,4 @@
-Show the status of the pods.
+Show and save the status of the pods to the file `pod-status`.
 
 ### Question
 
