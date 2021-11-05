@@ -28,7 +28,7 @@
         "title": "Status of the Pods",
         "text": "step7.md",
         "verify": "step7_verify.sh",
-        "hint": "step7_hint.sh"
+        "hint": "step5_hint.sh"
       },
       {
         "title": "Investigate NGINX",
