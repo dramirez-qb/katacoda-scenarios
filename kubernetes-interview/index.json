@@ -1,8 +1,9 @@
 {
   "title": "Kubernetes Interview",
   "description": "This interactive session will test your knowledge of Kubernetes.",
-  "difficulty": "beginner",
+  "difficulty": "average",
   "time": "20 minutes",
+  "type": "challenge@0.8",
   "details": {
     "steps": [
       {
